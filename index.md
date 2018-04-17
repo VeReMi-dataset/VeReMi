@@ -2,7 +2,7 @@
 
 ## SecureComm 2018: first release of VeReMi
 
-Source code: [veins](https://github.com/VeReMi-dataset/veins), [execution-scripts](https://github.com/VeReMi-dataset/VeReMi-popper)
+Source code: [veins](https://github.com/VeReMi-dataset/veins/commit/24e49cb4a140419d9cc88f0bbe54990c4ac63007), [execution-scripts](https://github.com/VeReMi-dataset/VeReMi-popper/commit/a49bc86f51c2fa155140e746e170d401e95b87ba)
 
 Notes:
 
